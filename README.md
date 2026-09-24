@@ -1,6 +1,7 @@
 E-commerce Sales, Delivery & Satisfaction Analysis
 
 BUSINESS PROBLEM
+
 Acting as an analyst for an online marketplace, this project uses SQL to analyse ~100K orders and Power BI to visualise the results, answering key questions about revenue trends, customer retention, product performance, and delivery reliability for management.
 
 DATASET
